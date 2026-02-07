@@ -1,4 +1,4 @@
-
+﻿
     <!DOCTYPE html>
     <html>
     <head>
@@ -662,7 +662,20 @@
                     width: 100%;
                 }
             }
-        </style>
+        
+            /* STOCK_PICKS_STYLE_START */
+            .pred-table-wrap { overflow-x: auto; }
+            .pred-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+            .pred-table th, .pred-table td { padding: 8px 10px; text-align: left; border-bottom: 1px solid #e2e8f0; }
+            .pred-table th { background: #e0e7ff; color: #1e1b4b; font-weight: 600; }
+            .pred-table tbody tr:nth-child(even) { background: #f8fafc; }
+            .pred-badge { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 11px; font-weight: 600; }
+            .pred-badge.pos { background: #dcfce7; color: #166534; }
+            .pred-badge.neg { background: #fee2e2; color: #b91c1c; }
+            .pred-badge.mid { background: #e2e8f0; color: #475569; }
+            .pred-empty { text-align: center; color: #64748b; padding: 16px; }
+            /* STOCK_PICKS_STYLE_END */
+</style>
     </head>
     <body>
         <div class="container">
@@ -693,6 +706,36 @@
             </div>
             
             <div class="content">
+                <!-- STOCK_PICKS_START -->
+                <div class="pred-section" id="stock-picks">
+                    <div class="pred-title">选股预测板块</div>
+                    <div class="pred-subtitle">最新日期：2025-11-24 · 展示最近1条 · 数据来源：selectshare.csv</div>
+                    <div class="pred-table-wrap">
+                        <table class="pred-table">
+                            <thead>
+                                <tr>
+                                    <th>日期</th>
+                                    <th>代码</th>
+                                    <th>中文名称</th>
+                                    <th>买入价</th>
+                                    <th>卖出价</th>
+                                    <th>是否盈利</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                        <tr>
+                            <td>2025-11-24</td>
+                            <td>300009</td>
+                            <td>安科生物</td>
+                            <td>185.72</td>
+                            <td>204.292</td>
+                            <td><span class="pred-badge pos">盈利</span></td>
+                        </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!-- STOCK_PICKS_END -->
                 <div class="pin-section">
                     <div class="pin-title">A股影响速览（自动）</div>
                     <div class="pin-subtitle">基于本页标题关键词归类，仅供参考</div>
