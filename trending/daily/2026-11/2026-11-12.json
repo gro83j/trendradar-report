@@ -16,10 +16,10 @@
   ],
   "count": 115,
   "degraded": false,
-  "contentHash": "sha256:56921942812a7426a5cc79d06396c3241d52389cc180e9f0c345486c8a676f8f",
+  "contentHash": "sha256:e9bcfe0441809282ca2e7a220fe1c146428cbb7462a3165c0fc86489c55e0d9c",
   "contentHashAlgo": "jcs-sha256-v1",
   "coreVersion": "0.10.0",
-  "generatedAt": "2026-11-12T01:24:25.652871Z",
+  "generatedAt": "2026-11-12T01:25:44.9620416Z",
   "repos": [
     {
       "fullName": "DarkFlippers/unleashed-firmware",
@@ -31,7 +31,7 @@
       "forks": 1985,
       "rank": 1,
       "source": "trending-html",
-      "summaryZh": "面向 Flipper Zero 用户的第三方固件，在官方功能之外扩展射频与自定义选项。",
+      "summaryZh": "面向 Flipper Zero 用户的社区增强固件，在官方固件基础上扩展功能与可定制选项。",
       "summarySource": "model"
     },
     {
@@ -44,7 +44,7 @@
       "forks": 21510,
       "rank": 2,
       "source": "trending-html",
-      "summaryZh": "用 Java 实现各类经典算法的集合，供学习者与面试准备者查阅参考。",
+      "summaryZh": "用 Java 实现常见算法与数据结构，适合学习者与面试准备者参考阅读。",
       "summarySource": "model"
     },
     {
@@ -57,7 +57,7 @@
       "forks": 56854,
       "rank": 3,
       "source": "trending-html",
-      "summaryZh": "LLM 驱动的多市场股票分析系统，聚合行情与新闻，输出决策看板并定时推送。",
+      "summaryZh": "由 LLM 驱动的多市场股票分析系统，整合行情与新闻，提供决策看板、自动推送和低成本定时运行。",
       "summarySource": "model"
     },
     {
@@ -70,7 +70,7 @@
       "forks": 12166,
       "rank": 4,
       "source": "trending-html",
-      "summaryZh": "面向 AI 编码代理的生产级工程技能集，帮助其规范完成实际开发任务。",
+      "summaryZh": "为 AI 编码代理准备的生产级工程技能集，帮助代理按规范完成开发任务。",
       "summarySource": "model"
     },
     {
@@ -83,7 +83,7 @@
       "forks": 5056,
       "rank": 5,
       "source": "trending-html",
-      "summaryZh": "将 PS5 可执行文件自动移植到 Linux 和 Windows 平台的工具。",
+      "summaryZh": "将 PS5 可执行文件自动移植到 Linux 与 Windows 平台的工具。",
       "summarySource": "model"
     },
     {
@@ -96,7 +96,7 @@
       "forks": 467,
       "rank": 6,
       "source": "trending-html",
-      "summaryZh": "为 .NET 与 C# 开发者提供技能配置，让 AI 编码助手更准确地编写相关代码。",
+      "summaryZh": "面向 AI 编码代理的 .NET 与 C# 技能集合，提升其在相关技术栈中的开发辅助能力。",
       "summarySource": "model"
     },
     {
@@ -109,7 +109,7 @@
       "forks": 1248,
       "rank": 7,
       "source": "trending-html",
-      "summaryZh": "用 Go 编写的 Google Maps 数据采集工具，可提取地点名称、地址、电话、评分、评论和坐标等信息。",
+      "summaryZh": "抓取 Google Maps 商户数据，包括名称、地址、电话、网址、评分、评论与经纬度等。",
       "summarySource": "model"
     },
     {
@@ -122,7 +122,7 @@
       "forks": 1955,
       "rank": 8,
       "source": "trending-html",
-      "summaryZh": "可完全自定义、便于 AI 代理使用的开源设计系统，帮助团队统一界面风格。",
+      "summaryZh": "开源且可完全定制的设计系统，同时面向 AI 代理使用。",
       "summarySource": "model"
     },
     {
@@ -135,7 +135,7 @@
       "forks": 3491,
       "rank": 9,
       "source": "trending-html",
-      "summaryZh": "面向 AI 智能体的浏览器自动化命令行工具，用 Rust 实现，可通过脚本控制网页操作。",
+      "summaryZh": "供 AI 代理调用命令行的浏览器自动化工具，用于网页操作与数据获取。",
       "summarySource": "model"
     },
     {
@@ -148,7 +148,7 @@
       "forks": 1755,
       "rank": 10,
       "source": "trending-html",
-      "summaryZh": "跨平台 Steam 工具箱，集成账号管理、游戏加速与社区增强等实用功能。",
+      "summaryZh": "Watt Toolkit，跨平台多功能 Steam 工具箱，面向需要扩展 Steam 使用体验的玩家。",
       "summarySource": "model"
     },
     {
@@ -161,7 +161,7 @@
       "forks": 857,
       "rank": 11,
       "source": "trending-html",
-      "summaryZh": "macOS 虚拟音频回环驱动，让应用之间以零额外延迟互相传递音频，适合录音、直播与音频路由。",
+      "summaryZh": "macOS 虚拟音频回环驱动，让应用之间以零附加延迟互相传递声音，适合录音与直播场景。",
       "summarySource": "model"
     },
     {
@@ -173,7 +173,7 @@
       "forks": 142,
       "rank": 12,
       "source": "trending-html",
-      "summaryZh": "Chrome 团队现代 Web 开发指南的源内容仓库，供开发者查阅并参与维护最佳实践文档。",
+      "summaryZh": "Chrome 团队维护的现代 Web 开发指南内容源码，供前端开发者查阅规范并参与贡献。",
       "summarySource": "model"
     },
     {
@@ -186,7 +186,7 @@
       "forks": 1652,
       "rank": 13,
       "source": "trending-html",
-      "summaryZh": "开源智能充电控制软件，结合光伏发电与电价自动调节电动车充电，Go 语言编写。",
+      "summaryZh": "开源智能充电控制器，联动光伏、电池与电动车，为家庭优化充电时段和能源使用。",
       "summarySource": "model"
     },
     {
@@ -199,7 +199,7 @@
       "forks": 4610,
       "rank": 14,
       "source": "trending-html",
-      "summaryZh": "面向稠密向量的高效相似度搜索与聚类库，用于检索、推荐等需要近邻查询的场景。",
+      "summaryZh": "面向稠密向量的相似度检索与聚类库，为推荐、检索类机器学习应用提供高效索引。",
       "summarySource": "model"
     },
     {
@@ -212,7 +212,7 @@
       "forks": 454,
       "rank": 15,
       "source": "trending-html",
-      "summaryZh": "让Claude、ChatGPT等AI助手通过MCP配置并自动化Home Assistant，降低编写智能家居规则的门槛。",
+      "summaryZh": "通过 MCP 让 Claude、ChatGPT 等 AI 助手配置和自动化 Home Assistant 智能家居。",
       "summarySource": "model"
     },
     {
@@ -225,7 +225,7 @@
       "forks": 16212,
       "rank": 16,
       "source": "trending-html",
-      "summaryZh": "开源 AI 低代码平台，由 AI 生成建表、前后端代码与流程，快速搭建企业级业务系统。",
+      "summaryZh": "Java 编写的 AI 低代码平台，内置权限、多租户、工作流与报表，用 AI 生成业务代码。",
       "summarySource": "model"
     },
     {
@@ -238,7 +238,7 @@
       "forks": 418,
       "rank": 17,
       "source": "trending-html",
-      "summaryZh": "把 HTML 当作新 Markdown 的编辑器，用于撰写与查看 HTML 形式的文档和产物。",
+      "summaryZh": "面向 HTML 产物的编辑器，把 HTML 当作新的 Markdown 来编写、预览和分享。",
       "summarySource": "model"
     },
     {
@@ -251,7 +251,7 @@
       "forks": 13543,
       "rank": 18,
       "source": "trending-html",
-      "summaryZh": "利用普通WiFi信号实现实时空间感知、生命体征监测与人员存在检测，无需任何摄像头画面。",
+      "summaryZh": "用普通 WiFi 信号实现空间感知、生命体征监测与存在检测，无需任何摄像头画面。",
       "summarySource": "model"
     },
     {
@@ -264,7 +264,7 @@
       "forks": 2101,
       "rank": 19,
       "source": "trending-html",
-      "summaryZh": "跨平台桌面工具，用于从 YouTube 下载视频与整个播放列表，C# 编写。",
+      "summaryZh": "跨平台桌面工具，供用户从 YouTube 下载视频与播放列表并选择所需格式。",
       "summarySource": "model"
     },
     {
@@ -277,7 +277,7 @@
       "forks": 2258,
       "rank": 20,
       "source": "trending-html",
-      "summaryZh": "Windows 平台的深度包检测绕过工具，帮助用户在受 DPI 干扰的网络中恢复访问。",
+      "summaryZh": "Windows 平台的深度包检测规避工具，帮助用户绕过网络审查与连接干扰。",
       "summarySource": "model"
     },
     {
@@ -290,7 +290,7 @@
       "forks": 13497,
       "rank": 21,
       "source": "trending-html",
-      "summaryZh": "让 AI 代理操控浏览器的 Python 库，开发者可借此自动化网页任务，并提供云端隐身浏览器与托管代理 API。",
+      "summaryZh": "让 AI 代理操作浏览器的 Python 库，配套隐身浏览器与托管代理 API，用于网页自动化任务。",
       "summarySource": "model"
     },
     {
@@ -303,7 +303,7 @@
       "forks": 2172,
       "rank": 22,
       "source": "trending-html",
-      "summaryZh": "通用多关节动力学与接触仿真器，供机器人与强化学习研究者做物理仿真训练。",
+      "summaryZh": "通用多关节接触动力学物理仿真器，常用于机器人控制与强化学习研究。",
       "summarySource": "model"
     },
     {
@@ -316,7 +316,7 @@
       "forks": 1170,
       "rank": 23,
       "source": "trending-html",
-      "summaryZh": "轻量级服务器监控工具，记录历史指标与容器资源占用并支持告警，适合自建运维面板。",
+      "summaryZh": "轻量服务器监控工具，记录历史指标与容器状态并支持告警，适合自建运维面板。",
       "summarySource": "model"
     },
     {
@@ -329,7 +329,7 @@
       "forks": 9827,
       "rank": 24,
       "source": "trending-html",
-      "summaryZh": "老牌开源持续集成与自动化服务器，通过插件扩展支撑构建、测试与部署流水线。",
+      "summaryZh": "老牌开源持续集成与自动化服务器，通过流水线与插件编排构建、测试和部署。",
       "summarySource": "model"
     },
     {
@@ -342,7 +342,7 @@
       "forks": 227,
       "rank": 25,
       "source": "trending-html",
-      "summaryZh": "面向 GitHub Copilot 等 AI 代理的 Power Platform 插件市场，提供可复用技能、代理与命令，辅助方案构建与部署。",
+      "summaryZh": "面向 GitHub Copilot 等 AI 代理的插件市场，提供 Power Platform 开发技能与命令。",
       "summarySource": "model"
     },
     {
@@ -355,7 +355,7 @@
       "forks": 939,
       "rank": 26,
       "source": "trending-html",
-      "summaryZh": "用于发现、验证并修复代码安全漏洞的命令行工具与 TypeScript SDK，可嵌入开发流程。",
+      "summaryZh": "用于发现、验证并修复安全漏洞的命令行工具与 TypeScript SDK。",
       "summarySource": "model"
     },
     {
@@ -368,7 +368,7 @@
       "forks": 317,
       "rank": 27,
       "source": "trending-html",
-      "summaryZh": "Rust 的 Web 应用框架，内置常用组件，帮助开发者快速搭建完整站点。",
+      "summaryZh": "开箱即用的 Rust Web 应用框架，内置常用能力以减少搭建项目时的重复工作。",
       "summarySource": "model"
     },
     {
@@ -380,7 +380,7 @@
       "forks": 1000,
       "rank": 28,
       "source": "trending-html",
-      "summaryZh": "将《塞尔达传说：时之笛》反编译移植到 PC 的开源项目，支持高帧率与模组扩展。",
+      "summaryZh": "HarbourMasters 组织下以 C 语言编写的项目，仓库未提供描述，需查看源码了解用途。",
       "summarySource": "model"
     },
     {
@@ -393,7 +393,7 @@
       "forks": 10948,
       "rank": 29,
       "source": "trending-html",
-      "summaryZh": "收录唐宋近一万四千位诗人、五万余首唐诗与二十六万首宋诗及两万余首词的古诗词数据库。",
+      "summaryZh": "收录唐诗宋词与词人资料的大型开源数据集，可供检索、文本分析与文化类应用使用。",
       "summarySource": "model"
     },
     {
@@ -406,7 +406,7 @@
       "forks": 272,
       "rank": 30,
       "source": "trending-html",
-      "summaryZh": "跨平台 iOS/iPadOS/tvOS 侧载应用（原 PlumeImpactor），帮助用户把应用安装到设备。",
+      "summaryZh": "跨平台 iOS/iPadOS/tvOS 侧载工具，功能较全，前身为 PlumeImpactor。",
       "summarySource": "model"
     },
     {
@@ -419,7 +419,7 @@
       "forks": 1641,
       "rank": 31,
       "source": "trending-html",
-      "summaryZh": "开源多协议远程连接管理器，以标签页方式统一管理 RDP、VNC、SSH 等会话。",
+      "summaryZh": "开源多协议远程连接管理器，用标签页统一管理 Windows 下的 RDP、SSH、VNC 等会话。",
       "summarySource": "model"
     },
     {
@@ -432,7 +432,7 @@
       "forks": 559,
       "rank": 32,
       "source": "trending-html",
-      "summaryZh": "上下文压缩插件，让长会话在小上下文窗口内运行并显著减少 token 消耗。",
+      "summaryZh": "面向长会话的上下文压缩插件，让小窗口模型也能处理月级对话并大幅节省 token。",
       "summarySource": "model"
     },
     {
@@ -445,7 +445,7 @@
       "forks": 445,
       "rank": 33,
       "source": "trending-html",
-      "summaryZh": "用最强模型审计代码库并产出实施计划，再交给低成本模型执行，帮团队压低编码成本。",
+      "summaryZh": "用最强模型审计代码库并生成实施计划，再交给低成本模型执行的开发工作流。",
       "summarySource": "model"
     },
     {
@@ -458,7 +458,7 @@
       "forks": 1360,
       "rank": 34,
       "source": "trending-html",
-      "summaryZh": "C++ 高速 JSON 解析库，借助 SIMD 指令实现每秒数 GB 吞吐，适合大规模数据处理。",
+      "summaryZh": "基于 SIMD 的高性能 C++ JSON 解析库，每秒可处理数 GB 数据，被多家数据库与运行时采用。",
       "summarySource": "model"
     },
     {
@@ -471,7 +471,7 @@
       "forks": 3245,
       "rank": 35,
       "source": "trending-html",
-      "summaryZh": "按用户名在六千余个网站搜集公开账号线索，为开源情报与安全调查人员生成人物档案。",
+      "summaryZh": "通过用户名在数千个网站搜集公开账号信息，生成人物档案，供 OSINT 调查使用。",
       "summarySource": "model"
     },
     {
@@ -484,7 +484,7 @@
       "forks": 2726,
       "rank": 36,
       "source": "trending-html",
-      "summaryZh": "扫描代码与文件中的泄露凭证并验证其有效性，供安全团队排查密钥外泄。",
+      "summaryZh": "扫描代码与仓库中的泄露凭证，并验证其是否仍然有效，供安全团队排查风险。",
       "summarySource": "model"
     },
     {
@@ -497,7 +497,7 @@
       "forks": 2704,
       "rank": 37,
       "source": "trending-html",
-      "summaryZh": "OWASP ZAP 动态应用安全测试工具，供开发和渗透测试人员在开发与测试中排查 Web 漏洞。",
+      "summaryZh": "Checkmarx 维护的开源 Web 应用安全扫描与渗透测试工具，用于发现和验证漏洞。",
       "summarySource": "model"
     },
     {
@@ -510,7 +510,7 @@
       "forks": 1998,
       "rank": 38,
       "source": "trending-html",
-      "summaryZh": "跨平台网络流量监控工具，以直观界面展示连接与带宽使用，适合普通用户排查网络。",
+      "summaryZh": "跨平台网络流量监控工具，以易用的图形界面实时查看连接与应用流量。",
       "summarySource": "model"
     },
     {
@@ -523,7 +523,7 @@
       "forks": 62,
       "rank": 39,
       "source": "trending-html",
-      "summaryZh": "自托管编码代理工作流编排工具，用脚本与人工审批串联 CodeBuddy、Codex 和 Claude Code。",
+      "summaryZh": "自托管的编码智能体交付工作流，用脚本与人工审批编排 CodeBuddy、Codex 和 Claude Code。",
       "summarySource": "model"
     },
     {
@@ -536,7 +536,7 @@
       "forks": 764,
       "rank": 40,
       "source": "trending-html",
-      "summaryZh": "面向 AI 编码代理的协作工作台，支持规划、标注、代码审查，并将反馈一键回传给代理。",
+      "summaryZh": "面向 AI 编码智能体的协作工作区，用于规划、标注、审查代码并一键回传反馈。",
       "summarySource": "model"
     },
     {
@@ -549,7 +549,7 @@
       "forks": 25448,
       "rank": 41,
       "source": "trending-html",
-      "summaryZh": "用 C/C++ 实现的大模型推理引擎，让开发者在消费级硬件和多平台上本地运行 LLM。",
+      "summaryZh": "用 C/C++ 实现的大模型推理引擎，让开发者在本地多种硬件上高效运行 LLM。",
       "summarySource": "model"
     },
     {
@@ -562,7 +562,7 @@
       "forks": 4092,
       "rank": 42,
       "source": "trending-html",
-      "summaryZh": "针对 PC 版微信、QQ、TIM 的防撤回补丁，通过十六进制编辑让已撤回的消息仍可查看。",
+      "summaryZh": "通过十六进制补丁修改 PC 版微信/QQ/TIM，阻止对方撤回已发出的消息。",
       "summarySource": "model"
     },
     {
@@ -575,7 +575,7 @@
       "forks": 8728,
       "rank": 43,
       "source": "trending-html",
-      "summaryZh": "微软出品的 Windows 效率工具集，提供窗口管理、快捷键增强等实用小工具。",
+      "summaryZh": "微软出品的 Windows 工具集，提供窗口布局、快捷键等效率与个性化增强功能。",
       "summarySource": "model"
     },
     {
@@ -588,7 +588,7 @@
       "forks": 721,
       "rank": 44,
       "source": "trending-html",
-      "summaryZh": "面向交互式超级智能系统的高性能服务运行时，用于大模型的在线推理部署与加速。",
+      "summaryZh": "面向交互式超智能系统的高性能模型服务运行时，用于部署与调度推理请求。",
       "summarySource": "model"
     },
     {
@@ -601,7 +601,7 @@
       "forks": 38800,
       "rank": 45,
       "source": "trending-html",
-      "summaryZh": "Java 企业级应用开发基础框架，提供依赖注入、AOP、Web MVC 等核心能力。",
+      "summaryZh": "Java 企业级开发基础框架，提供依赖注入、Web MVC、事务等核心能力。",
       "summarySource": "model"
     },
     {
@@ -614,7 +614,7 @@
       "forks": 653,
       "rank": 46,
       "source": "trending-html",
-      "summaryZh": "可自行托管的开源验证码方案，注重隐私，用于拦截机器人与 AI 代理、放行真人用户。",
+      "summaryZh": "可自行托管的开源验证码方案，用于拦截机器人与自动化脚本，保护站点。",
       "summarySource": "model"
     },
     {
@@ -627,7 +627,7 @@
       "forks": 1632,
       "rank": 47,
       "source": "trending-html",
-      "summaryZh": "连接 AI 助手与 Unity 编辑器的桥接工具，让大模型管理资源、控制场景并编辑脚本。",
+      "summaryZh": "连接 AI 助手与 Unity 编辑器的 MCP 桥接，让模型管理资源、控制场景并编辑脚本。",
       "summarySource": "model"
     },
     {
@@ -640,7 +640,7 @@
       "forks": 651,
       "rank": 48,
       "source": "trending-html",
-      "summaryZh": "适配主流编码 Agent 的中文小说创作技能，可从零生成十至五十章长篇并自动校验。",
+      "summaryZh": "面向编码代理的中文长篇小说创作技能，按章生成并维护创作记忆与悬念。",
       "summarySource": "model"
     },
     {
@@ -653,7 +653,7 @@
       "forks": 58,
       "rank": 49,
       "source": "trending-html",
-      "summaryZh": "用 Rust 与 GPUI 编写的轻量数据库客户端，面向追求启动速度与低资源占用的开发者。",
+      "summaryZh": "用 Rust 与 GPUI 编写的轻量数据库客户端，注重启动与操作速度。",
       "summarySource": "model"
     },
     {
@@ -666,7 +666,7 @@
       "forks": 267,
       "rank": 50,
       "source": "trending-html",
-      "summaryZh": "开源 AI 游戏创作工作台，内置画布并支持自带 API Key，让个人开发者独立完成游戏制作。",
+      "summaryZh": "开源 AI 游戏制作工作台，内置画布与自带密钥，供个人独立完成游戏开发。",
       "summarySource": "model"
     },
     {
@@ -679,7 +679,7 @@
       "forks": 1599,
       "rank": 51,
       "source": "trending-html",
-      "summaryZh": "Java 智能体开发框架，支持分布式部署与长时间运行，面向需要生产级可靠性的智能体应用。",
+      "summaryZh": "基于 Java 的智能体开发框架，帮助团队构建可分布式部署、长期稳定运行的生产级 Agent 应用。",
       "summarySource": "model"
     },
     {
@@ -692,7 +692,7 @@
       "forks": 22732,
       "rank": 52,
       "source": "trending-html",
-      "summaryZh": "Anthropic 公开的 Agent Skills 集合，为开发者提供可复用的智能体技能示例与规范。",
+      "summaryZh": "面向 Agent Skills 开放标准的公开技能仓库，供开发者了解并复用为编码智能体扩展能力的技能定义。",
       "summarySource": "model"
     },
     {
@@ -705,7 +705,7 @@
       "forks": 4446,
       "rank": 53,
       "source": "trending-html",
-      "summaryZh": "免费嵌入式图形界面库，适用于从小型 MCU 到支持 3D 的 MPU 等各类设备。",
+      "summaryZh": "开源嵌入式图形界面库，覆盖从低端 MCU 到支持 3D 的 MPU，供嵌入式开发者构建设备 UI。",
       "summarySource": "model"
     },
     {
@@ -718,7 +718,7 @@
       "forks": 429,
       "rank": 54,
       "source": "trending-html",
-      "summaryZh": "跨平台 AI 客户端，可在云端 API 与本地离线模型之间切换，支持自定义模型。",
+      "summaryZh": "跨平台 AI 客户端，可在云端 API 与本地离线运行的自定义模型之间自由切换。",
       "summarySource": "model"
     },
     {
@@ -731,7 +731,7 @@
       "forks": 3994,
       "rank": 55,
       "source": "trending-html",
-      "summaryZh": "基于 YAML 模板的漏洞扫描器，借助社区模板快速检测应用、API、网络与云配置风险。",
+      "summaryZh": "基于 YAML DSL 与社区模板的漏洞扫描器，用于排查应用、API、网络、DNS 和云配置中的安全问题。",
       "summarySource": "model"
     },
     {
@@ -744,7 +744,7 @@
       "forks": 3672,
       "rank": 56,
       "source": "trending-html",
-      "summaryZh": "阿里大规模验证的代码审查工具，规则流水线结合 LLM，可给出精确到行的多语言问题提示。",
+      "summaryZh": "阿里大规模验证的代码审查工具，结合确定性流水线与 LLM Agent 输出精确到行的多语言缺陷提示。",
       "summarySource": "model"
     },
     {
@@ -757,7 +757,7 @@
       "forks": 15681,
       "rank": 57,
       "source": "trending-html",
-      "summaryZh": "分布式事件流平台，用于高吞吐的数据管道、流处理与系统间事件传递。",
+      "summaryZh": "分布式事件流平台，为实时数据管道、流式处理与系统间解耦提供高吞吐的消息传递能力。",
       "summarySource": "model"
     },
     {
@@ -770,7 +770,7 @@
       "forks": 1649,
       "rank": 58,
       "source": "trending-html",
-      "summaryZh": "可自托管的 AI 智能体，从选题、脚本、配音到成片与发布全流程运营 YouTube 频道。",
+      "summaryZh": "自托管 AI 智能体，自动完成选题、脚本、配音、画面、SEO 与发布，并按频道数据反馈优化。",
       "summarySource": "model"
     },
     {
@@ -783,7 +783,7 @@
       "forks": 1055,
       "rank": 59,
       "source": "trending-html",
-      "summaryZh": "配合 Stitch MCP 服务使用的代理技能库，遵循开放标准，兼容 Gemini CLI、Claude Code、Cursor 等编码代理。",
+      "summaryZh": "配合 Stitch MCP 服务器使用的 Agent Skills 技能库，遵循开放标准，兼容主流编码智能体。",
       "summarySource": "model"
     },
     {
@@ -796,7 +796,7 @@
       "forks": 673,
       "rank": 60,
       "source": "trending-html",
-      "summaryZh": "面向 Windows 用户的轻量工具，用于配置筛选平台规则以管理程序网络访问。",
+      "summaryZh": "轻量 Windows 防火墙配置工具，通过管理 WFP 规则控制本机程序的网络访问。",
       "summarySource": "model"
     },
     {
@@ -809,7 +809,7 @@
       "forks": 3237,
       "rank": 61,
       "source": "trending-html",
-      "summaryZh": "用 Rust 编写的高性能 DataFrame 查询引擎，面向需要快速处理大规模表格数据的数据分析场景。",
+      "summaryZh": "用 Rust 编写的超快 DataFrame 查询引擎，适合处理大规模表格数据与数据分析任务。",
       "summarySource": "model"
     },
     {
@@ -822,7 +822,7 @@
       "forks": 12753,
       "rank": 62,
       "source": "trending-html",
-      "summaryZh": "按用户名在多个社交网络批量检索账号是否存在，适用于开源情报与账号排查。",
+      "summaryZh": "按用户名在多个社交网络批量检索账号，供开源情报调查与账号排查使用。",
       "summarySource": "model"
     },
     {
@@ -835,7 +835,7 @@
       "forks": 611,
       "rank": 63,
       "source": "trending-html",
-      "summaryZh": "跨平台 Git 图形客户端，为 Windows、macOS 和 Linux 用户提供可视化的仓库操作界面。",
+      "summaryZh": "跨 Windows、macOS、Linux 的 Git 图形客户端，帮助用户可视化操作仓库。",
       "summarySource": "model"
     },
     {
@@ -848,7 +848,7 @@
       "forks": 462,
       "rank": 64,
       "source": "trending-html",
-      "summaryZh": "由 sing-box 驱动的跨平台图形化代理客户端，面向需要可视化配置代理与规则的桌面用户。",
+      "summaryZh": "基于 sing-box 的跨平台图形代理工具，便于配置和管理网络代理。",
       "summarySource": "model"
     },
     {
@@ -861,7 +861,7 @@
       "forks": 958,
       "rank": 65,
       "source": "trending-html",
-      "summaryZh": "开源个人财务应用，帮助普通用户统一管理账户、收支与预算。",
+      "summaryZh": "开源个人财务管理应用，帮助用户记录账户、预算与日常收支。",
       "summarySource": "model"
     },
     {
@@ -874,7 +874,7 @@
       "forks": 6504,
       "rank": 66,
       "source": "trending-html",
-      "summaryZh": "可自托管的开源 AI 图像与视频生成平台，聚合六百多个模型且不过滤内容。",
+      "summaryZh": "可自托管的图像与视频生成工作室，集成 600 多个模型供创作者使用。",
       "summarySource": "model"
     },
     {
@@ -887,7 +887,7 @@
       "forks": 373,
       "rank": 67,
       "source": "trending-html",
-      "summaryZh": "图形化网页视频与音频下载工具，帮助用户从各类网站保存媒体文件。",
+      "summaryZh": "图形界面下载工具，用于从网页保存视频和音频文件。",
       "summarySource": "model"
     },
     {
@@ -900,7 +900,7 @@
       "forks": 6138,
       "rank": 68,
       "source": "trending-html",
-      "summaryZh": "通用网络代理平台，兼容 v2ray 生态，为需要灵活代理与转发能力的用户提供底层核心。",
+      "summaryZh": "网络代理核心平台，提供兼容 v2ray 的协议实现与多种传输方式。",
       "summarySource": "model"
     },
     {
@@ -913,7 +913,7 @@
       "forks": 693,
       "rank": 69,
       "source": "trending-html",
-      "summaryZh": "基于 ESP32 的开源低成本迷你四足机器人，适合机器人爱好者学习与动手制作。",
+      "summaryZh": "基于 ESP32 的低成本开源迷你四足机器人，面向学习与 DIY 爱好者。",
       "summarySource": "model"
     },
     {
@@ -926,7 +926,7 @@
       "forks": 1339,
       "rank": 70,
       "source": "trending-html",
-      "summaryZh": "开源企业管理平台，整合 ERP、CRM、人力资源、招聘与项目管理，面向企业团队。",
+      "summaryZh": "开源企业经营管理平台，整合 ERP、CRM、人力资源与项目管理模块。",
       "summarySource": "model"
     },
     {
@@ -939,7 +939,7 @@
       "forks": 392,
       "rank": 71,
       "source": "trending-html",
-      "summaryZh": "面向 Mac 与 Windows 用户的开源文件传输客户端，支持 FTP、SFTP、WebDAV 及多家云存储。",
+      "summaryZh": "面向 Mac 与 Windows 用户的开源文件传输客户端，支持 FTP、SFTP、WebDAV 及多家云存储服务。",
       "summarySource": "model"
     },
     {
@@ -952,7 +952,7 @@
       "forks": 86,
       "rank": 72,
       "source": "trending-html",
-      "summaryZh": "用 Rust 实现的多源文件下载引擎，面向需要高速、稳定下载的场景。",
+      "summaryZh": "用 Rust 实现的多源文件下载引擎，强调速度与容错，适合加速大文件获取。",
       "summarySource": "model"
     },
     {
@@ -965,7 +965,7 @@
       "forks": 15616,
       "rank": 73,
       "source": "trending-html",
-      "summaryZh": "动画图解且可一键运行的数据结构与算法教程，提供多种编程语言代码实现。",
+      "summaryZh": "以动画图解和可运行代码讲解数据结构与算法，面向初学者，提供多种编程语言实现。",
       "summarySource": "model"
     },
     {
@@ -978,7 +978,7 @@
       "forks": 449,
       "rank": 74,
       "source": "trending-html",
-      "summaryZh": "面向 Windows 和 macOS 的免费开源截图与录屏工具，支持标注、滚动长截图、离线 OCR 和贴图。",
+      "summaryZh": "Windows 与 macOS 上的免费开源截图录屏工具，支持标注、滚动长截图、离线 OCR 与贴图。",
       "summarySource": "model"
     },
     {
@@ -991,7 +991,7 @@
       "forks": 190,
       "rank": 75,
       "source": "trending-html",
-      "summaryZh": "让大模型按 ASD-STE100 简化技术英语规范撰写文档的 Agent 技能。",
+      "summaryZh": "一个智能体技能，引导大模型按 ASD-STE100 简化技术英语规范撰写技术文档。",
       "summarySource": "model"
     },
     {
@@ -1003,7 +1003,7 @@
       "forks": 402,
       "rank": 76,
       "source": "trending-html",
-      "summaryZh": "用于查看和调整 NVIDIA 驱动配置文件的工具，适合需要细调显卡参数的用户。",
+      "summaryZh": "用于查看和修改 NVIDIA 驱动配置文件的 Windows 工具，可调整隐藏的图形与游戏设置。",
       "summarySource": "model"
     },
     {
@@ -1016,7 +1016,7 @@
       "forks": 728,
       "rank": 77,
       "source": "trending-html",
-      "summaryZh": "面向需要自建智能体平台的开发者，提供构建和运行 agent 的核心系统层。",
+      "summaryZh": "用 Go 编写的智能体基础系统，为构建与运行 AI agent 提供核心组件。",
       "summarySource": "model"
     },
     {
@@ -1029,7 +1029,7 @@
       "forks": 2523,
       "rank": 78,
       "source": "trending-html",
-      "summaryZh": "阿里开源的高性能轻量级推理引擎，面向端侧大模型与边缘 AI 部署。",
+      "summaryZh": "阿里开源的轻量级推理引擎，面向端侧大模型与边缘 AI 的高性能部署。",
       "summarySource": "model"
     },
     {
@@ -1042,7 +1042,7 @@
       "forks": 410,
       "rank": 79,
       "source": "trending-html",
-      "summaryZh": "供 Flatpak 等项目使用的低层非特权沙箱工具，用于隔离应用运行环境。",
+      "summaryZh": "非特权的底层沙箱工具，为 Flatpak 等项目提供 Linux 应用隔离能力。",
       "summarySource": "model"
     },
     {
@@ -1055,7 +1055,7 @@
       "forks": 4874,
       "rank": 80,
       "source": "trending-html",
-      "summaryZh": "面向 OpenClaw/Hermes 智能体的开源“大脑”配置，提供带有个人倾向的提示词与工作流设定。",
+      "summaryZh": "为 OpenClaw 与 Hermes 智能体提供的一套带有个人主张的“大脑”配置与实现。",
       "summarySource": "model"
     },
     {
@@ -1068,7 +1068,7 @@
       "forks": 114,
       "rank": 81,
       "source": "trending-html",
-      "summaryZh": "集成 Xray、WARP、Tor、OpenVPN 等多引擎的 Android VPN 客户端，可按应用分配不同线路。",
+      "summaryZh": "Kotlin 编写的安卓多引擎 VPN 客户端，集成 Xray、Tor、OpenVPN 等，可按应用自动分配最优线路。",
       "summarySource": "model"
     },
     {
@@ -1081,7 +1081,7 @@
       "forks": 20581,
       "rank": 82,
       "source": "trending-html",
-      "summaryZh": "开源远程桌面应用，支持自行搭建中继服务器，作为 TeamViewer 的替代方案。",
+      "summaryZh": "开源远程桌面工具，支持自建中继服务器，可替代 TeamViewer 用于远程控制与协作。",
       "summarySource": "model"
     },
     {
@@ -1094,7 +1094,7 @@
       "forks": 6892,
       "rank": 83,
       "source": "trending-html",
-      "summaryZh": "统一接入多家大模型 API 的管理与分发系统，支持密钥管理与二次分发，单文件部署。",
+      "summaryZh": "统一多家大模型 API 的管理与分发系统，支持密钥管理与二次分发，单文件部署。",
       "summarySource": "model"
     },
     {
@@ -1107,7 +1107,7 @@
       "forks": 31141,
       "rank": 84,
       "source": "trending-html",
-      "summaryZh": "可快速自建影视资源站点，支持 Docker 等方式部署，适合个人搭建视频站。",
+      "summaryZh": "可快速搭建影视点播站的开源项目，支持 Docker 等方式一键部署。",
       "summarySource": "model"
     },
     {
@@ -1120,7 +1120,7 @@
       "forks": 1967,
       "rank": 85,
       "source": "trending-html",
-      "summaryZh": "面向 Unity il2cpp 程序的逆向工程工具，帮助分析人员还原类型与结构信息。",
+      "summaryZh": "面向 Unity il2cpp 逆向分析的工具，可还原类型与方法信息供研究使用。",
       "summarySource": "model"
     },
     {
@@ -1133,7 +1133,7 @@
       "forks": 2955,
       "rank": 86,
       "source": "trending-html",
-      "summaryZh": "Apache 开源的银行核心业务平台，为金融机构提供账户与贷款等基础服务。",
+      "summaryZh": "Apache 开源的银行核心系统，为金融机构提供贷款、储蓄等业务的后台平台。",
       "summarySource": "model"
     },
     {
@@ -1146,7 +1146,7 @@
       "forks": 257,
       "rank": 87,
       "source": "trending-html",
-      "summaryZh": "用于对抗深度包检测的网络工具，帮助绕过流量识别与限制。",
+      "summaryZh": "用于绕过 DPI 深度包检测的抗审查网络软件，帮助改善受限制网络下的连通性。",
       "summarySource": "model"
     },
     {
@@ -1159,7 +1159,7 @@
       "forks": 902,
       "rank": 88,
       "source": "trending-html",
-      "summaryZh": "AI 智能体技能，按多种视觉主题生成浏览器可编辑的演示文稿，可导出 HTML、PDF 和 PPTX。",
+      "summaryZh": "AI 智能体技能，按多种视觉主题生成可在浏览器编辑的演示文稿，支持导出 HTML、PDF 与 PPTX。",
       "summarySource": "model"
     },
     {
@@ -1172,7 +1172,7 @@
       "forks": 310,
       "rank": 89,
       "source": "trending-html",
-      "summaryZh": "为电视端 YouTube 客户端提供 SponsorBlock 支持，可自动跳过赞助片段。",
+      "summaryZh": "为电视端 YouTube 客户端提供 SponsorBlock 支持的客户端，自动跳过赞助片段。",
       "summarySource": "model"
     },
     {
@@ -1185,7 +1185,7 @@
       "forks": 222,
       "rank": 90,
       "source": "trending-html",
-      "summaryZh": "跨显卡厂商的 3D 高斯泼溅训练工具，可从视频生成 splat 与网格，支持 Vulkan 和 CUDA。",
+      "summaryZh": "跨厂商的 3D 高斯泼溅训练工具，可将视频转为泼溅与网格，支持 Vulkan 和 CUDA。",
       "summarySource": "model"
     },
     {
@@ -1198,7 +1198,7 @@
       "forks": 117,
       "rank": 91,
       "source": "trending-html",
-      "summaryZh": "GPU 加速的 Go 语言 IDE 与终端复用器，兼顾自动化和手动编程场景。",
+      "summaryZh": "面向开发者的 GPU 加速 IDE 兼终端复用器，兼顾自动化与手动编程场景。",
       "summarySource": "model"
     },
     {
@@ -1211,7 +1211,7 @@
       "forks": 592,
       "rank": 92,
       "source": "trending-html",
-      "summaryZh": "开放世界僵尸生存沙盒游戏 Unturned 的源码，供模组作者与开发者参考。",
+      "summaryZh": "开放世界僵尸生存沙盒游戏 Unturned 的源码，供模组作者与游戏开发者参考扩展。",
       "summarySource": "model"
     },
     {
@@ -1224,7 +1224,7 @@
       "forks": 35,
       "rank": 93,
       "source": "trending-html",
-      "summaryZh": "面向 Android 手机的第三方 YouTube 客户端，支持后台播放、PiP 与 SponsorBlock。",
+      "summaryZh": "面向 Android 用户的开源 YouTube 客户端，支持后台播放、画中画与赞助片段跳过。",
       "summarySource": "model"
     },
     {
@@ -1237,7 +1237,7 @@
       "forks": 1960,
       "rank": 94,
       "source": "trending-html",
-      "summaryZh": "借助 Wine 与 Box86/Box64 在 Android 设备上运行 Windows 应用程序。",
+      "summaryZh": "在 Android 设备上借助 Wine 与 Box86/Box64 运行 Windows 程序的兼容应用。",
       "summarySource": "model"
     },
     {
@@ -1250,7 +1250,7 @@
       "forks": 679,
       "rank": 95,
       "source": "trending-html",
-      "summaryZh": "简约开源的浏览器双语对照翻译扩展与油猴脚本，帮助阅读外文网页。",
+      "summaryZh": "简约开源的双语对照翻译扩展与油猴脚本，方便网页外文内容对照阅读。",
       "summarySource": "model"
     },
     {
@@ -1263,7 +1263,7 @@
       "forks": 7360,
       "rank": 96,
       "source": "trending-html",
-      "summaryZh": "让人类与 AI 智能体协同工作的自托管开源平台，支持自行部署。",
+      "summaryZh": "让人类与 AI 智能体协同工作的开源平台，支持自托管部署与团队任务协作。",
       "summarySource": "model"
     },
     {
@@ -1276,7 +1276,7 @@
       "forks": 366,
       "rank": 97,
       "source": "trending-html",
-      "summaryZh": "操作简便的应用侧载工具，降低在设备上安装非商店应用的门槛。",
+      "summaryZh": "面向普通用户的侧载工具，简化在设备上安装应用商店之外应用的流程。",
       "summarySource": "model"
     },
     {
@@ -1289,7 +1289,7 @@
       "forks": 1630,
       "rank": 98,
       "source": "trending-html",
-      "summaryZh": "面向 AI 代理的安全沙箱运行时，强调启动速度与可扩展性，用于隔离执行代码和工具调用。",
+      "summaryZh": "为 AI 智能体打造的安全、快速、可扩展沙箱运行时，用于隔离执行任务。",
       "summarySource": "model"
     },
     {
@@ -1302,7 +1302,7 @@
       "forks": 5812,
       "rank": 99,
       "source": "trending-html",
-      "summaryZh": ".NET 跨平台运行时与基础类库，支撑云、桌面、移动和 IoT 应用的构建与执行。",
+      "summaryZh": ".NET 跨平台运行时与基础类库，支撑云、移动、桌面及物联网应用开发。",
       "summarySource": "model"
     },
     {
@@ -1315,7 +1315,7 @@
       "forks": 1961,
       "rank": 100,
       "source": "trending-html",
-      "summaryZh": "开源办公 SDK，可将表格编辑、计算与协作能力集成进自有产品。",
+      "summaryZh": "开源办公文档 SDK，可将表格编辑、计算与协作能力嵌入产品，兼容 AI 智能体。",
       "summarySource": "model"
     },
     {
@@ -1328,7 +1328,7 @@
       "forks": 542,
       "rank": 101,
       "source": "trending-html",
-      "summaryZh": "自托管网页代理，可移除 CORS 头并改写 HTML，作为 12ft.io 等阅读限制绕过工具的替代。",
+      "summaryZh": "自托管网页代理，改写返回的 HTML 并去除 CORS 响应头，用于绕过付费墙与跨域限制。",
       "summarySource": "model"
     },
     {
@@ -1340,7 +1340,7 @@
       "forks": 365,
       "rank": 102,
       "source": "trending-html",
-      "summaryZh": "为 Google Ads 提供 MCP 接口，方便 AI 客户端接入广告账户数据与操作。",
+      "summaryZh": "面向 Google Ads 的 MCP 服务，让 AI 助手通过统一协议查询和操作广告账户数据。",
       "summarySource": "model"
     },
     {
@@ -1353,7 +1353,7 @@
       "forks": 10702,
       "rank": 103,
       "source": "trending-html",
-      "summaryZh": "在终端、IDE 或浏览器中免费调用 Claude Code、Codex 等多种编码代理，支持多模型与多 harness 切换。",
+      "summaryZh": "聚合多种 AI 编程工具与免费额度，可在终端、IDE、浏览器和手机端接入使用。",
       "summarySource": "model"
     },
     {
@@ -1366,7 +1366,7 @@
       "forks": 1737,
       "rank": 104,
       "source": "trending-html",
-      "summaryZh": "基于 NTQQ 的现代协议端框架，为 QQ 机器人开发者提供消息收发与协议对接能力。",
+      "summaryZh": "基于 NTQQ 的协议端框架，供开发者搭建 QQ 机器人并处理消息与事件。",
       "summarySource": "model"
     },
     {
@@ -1379,7 +1379,7 @@
       "forks": 5144,
       "rank": 105,
       "source": "trending-html",
-      "summaryZh": "开源大模型知识平台，把原始文档转成可检索的RAG、推理智能体与自维护Wiki，面向企业知识库搭建者。",
+      "summaryZh": "开源 LLM 知识平台，把原始文档转为可查询的 RAG、推理智能体与自维护 Wiki。",
       "summarySource": "model"
     },
     {
@@ -1392,7 +1392,7 @@
       "forks": 1508,
       "rank": 106,
       "source": "trending-html",
-      "summaryZh": "开源网络威胁情报平台，帮助安全团队汇聚、建模和共享威胁情报数据。",
+      "summaryZh": "开源网络威胁情报平台，用于汇聚、建模并共享 IOC 与各类威胁情报数据。",
       "summarySource": "model"
     },
     {
@@ -1405,7 +1405,7 @@
       "forks": 901,
       "rank": 107,
       "source": "trending-html",
-      "summaryZh": "面向 Kubernetes 的云原生 AI 智能体框架，用于在集群中构建、部署和运维 Agent。",
+      "summaryZh": "面向 Kubernetes 的云原生 AI 智能体框架，帮助在集群中构建和运行智能体。",
       "summarySource": "model"
     },
     {
@@ -1418,7 +1418,7 @@
       "forks": 1857,
       "rank": 108,
       "source": "trending-html",
-      "summaryZh": "自托管 A 股量化工作台，支持策略编写、监控回测及基于大模型的个股分析与复盘。",
+      "summaryZh": "自托管的 A 股量化工作台，融合自建策略、监控回测与 LLM 个股分析复盘。",
       "summarySource": "model"
     },
     {
@@ -1431,7 +1431,7 @@
       "forks": 2473,
       "rank": 109,
       "source": "trending-html",
-      "summaryZh": "面向终端用户的 AI 编程助手，可在命令行中辅助完成代码编写与开发任务。",
+      "summaryZh": "运行在终端中的 AI 编程智能体，辅助开发者读写代码并完成日常编码任务。",
       "summarySource": "model"
     },
     {
@@ -1444,7 +1444,7 @@
       "forks": 6202,
       "rank": 110,
       "source": "trending-html",
-      "summaryZh": "高性能、可组合的无头电商 API，供开发者构建定制化在线商店与结账体验。",
+      "summaryZh": "无头电商 API 平台，为前端提供高性能、可组合的商品、订单与结账能力。",
       "summarySource": "model"
     },
     {
@@ -1457,7 +1457,7 @@
       "forks": 29,
       "rank": 111,
       "source": "trending-html",
-      "summaryZh": "面向钱包、打款、市场平台与计费场景的开源复式记账账本，用整数金额保证精确，并提供可审计链路与 AI 代理支出限额。",
+      "summaryZh": "开源复式记账账本，面向钱包、付款与计费场景，支持整数金额、可验证审计链和 AI 代理消费限额。",
       "summarySource": "model"
     },
     {
@@ -1470,7 +1470,7 @@
       "forks": 300,
       "rank": 112,
       "source": "trending-html",
-      "summaryZh": "开源零加价模型网关，统一接入自带密钥、自托管及上千个市场模型，并根据流量推荐更优模型以降低成本。",
+      "summaryZh": "零加价的模型网关，统一接入自有密钥、自托管及上千款市场模型，并按流量推荐更省成本的模型。",
       "summarySource": "model"
     },
     {
@@ -1483,7 +1483,7 @@
       "forks": 3485,
       "rank": 113,
       "source": "trending-html",
-      "summaryZh": "一组示例项目，帮助开发者用 Claude API 快速搭建可部署的应用。",
+      "summaryZh": "官方示例项目集，帮助开发者用 Claude API 快速搭建可部署的应用原型。",
       "summarySource": "model"
     },
     {
@@ -1496,7 +1496,7 @@
       "forks": 8948,
       "rank": 114,
       "source": "trending-html",
-      "summaryZh": "将多个 AI 编程助手与命令行工具封装为兼容 OpenAI、Gemini、Claude 的 API 服务，方便统一调用各家模型。",
+      "summaryZh": "把多种 AI 编程命令行工具封装成 OpenAI、Gemini、Claude 兼容的 API 服务，便于统一调用。",
       "summarySource": "model"
     },
     {
@@ -1509,7 +1509,7 @@
       "forks": 2453,
       "rank": 115,
       "source": "trending-html",
-      "summaryZh": "为 API、集成与端到端测试创建安全隔离的生产沙箱，帮助团队在不影响真实环境的前提下完成验证。",
+      "summaryZh": "为 API、集成和端到端测试创建隔离的生产环境沙箱，避免测试触碰真实数据。",
       "summarySource": "model"
     }
   ]
